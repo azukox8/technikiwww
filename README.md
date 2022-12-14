@@ -1,3 +1,3 @@
 # tecnikiwww
 
-https://azukox8.github.io/tecnikiwww/index.html
+https://azukox8.github.io/technikiwww/index.html
